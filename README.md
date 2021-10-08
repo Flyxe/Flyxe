@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Flyxe
+- 👀 I’m interested in New languages
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Flutter App
+- 📫 Reach me by sending private message
